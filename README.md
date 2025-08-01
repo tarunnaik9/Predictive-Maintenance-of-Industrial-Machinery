@@ -1,7 +1,12 @@
 #  Predictive Maintenance of Industrial Machinery
 
 ##  Problem Statement
-Industrial machines often face unplanned downtime due to sudden failures like tool wear, overheating, or power issues. This leads to reduced productivity and increased maintenance costs. The goal of this project is to use machine learning to predict such failures in advance using real-time sensor data, enabling proactive maintenance and improving equipment reliability.
+A predictive maintenance model for a fleet of industrial machines to anticipate 
+failures before they occur. This project will involve analyzing sensor data from machinery 
+to identify patterns that precede a failure. The goal is to create a classification model that 
+can predict the type of failure (e.g., tool wear, heat dissipation, power failure) based on 
+real-time operational data. This will enable proactive maintenance, reducing downtime 
+and operational costs. 
 
 ---
 

@@ -78,13 +78,5 @@ We developed a predictive maintenance model using IBM Watson AutoAI, which analy
 
 Kaggle: [Machine Predictive Maintenance Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
----
 
-
-
----
-
-## 📜 License
-
-This project is for academic and educational use. Free to use with attribution.
 
